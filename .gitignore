@@ -1,0 +1,14 @@
+# Pyton
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Airflow
+docker/airflow/logs/
+docker/airflow/**/__pycache__/
+
+# OS/Editor
+.DS_Store
+.vscode/
+.idea/
